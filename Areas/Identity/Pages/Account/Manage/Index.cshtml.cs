@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
-using motoWhere.Areas.Identity.Data;
+using motoWhere.Data;
 
 namespace motoWhere.Areas.Identity.Pages.Account.Manage
 {

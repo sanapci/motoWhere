@@ -17,7 +17,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.AspNetCore.WebUtilities;
 using Microsoft.Extensions.Logging;
-using motoWhere.Areas.Identity.Data;
+using motoWhere.Data;
 
 namespace motoWhere.Areas.Identity.Pages.Account
 {
