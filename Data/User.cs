@@ -6,8 +6,9 @@ using Microsoft.AspNetCore.Identity;
 
 namespace motoWhere.Data;
 
-// Add profile data for application users by adding properties to the User class
 public class User : IdentityUser
 {
+    [PersonalData]
+    public string? Name { get; set; }
 }
 
